@@ -1,0 +1,29 @@
+[RemoteTestNG] detected TestNG version 7.4.0
+{
+    "id": 7886365,
+    "name": "Mrs. Donny Keeling",
+    "email": "veronica.lubowitz@yahoo.com",
+    "gender": "male",
+    "status": "active"
+}
+{
+    "id": 7886365,
+    "name": "Mrs. Donny Keeling",
+    "email": "veronica.lubowitz@yahoo.com",
+    "gender": "male",
+    "status": "active"
+}
+{
+    "id": 7886365,
+    "name": "Mrs. Donny Keeling",
+    "email": "veronica.lubowitz@yahoo.com",
+    "gender": "male",
+    "status": "active"
+}
+
+
+===============================================
+Suite
+Total tests run: 4, Passes: 4, Failures: 0, Skips: 0
+===============================================
+
