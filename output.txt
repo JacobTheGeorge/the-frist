@@ -1,2 +1,1 @@
-the change is made  by jacob to check the git pull is working or not
-the jacob
+now doing push 
